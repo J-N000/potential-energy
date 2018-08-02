@@ -4,9 +4,9 @@
       <label>
         <gmap-autocomplete @place_changed="setPlace"></gmap-autocomplete>
         <b-button size="sm" @click="gotoPlace(currentPlace)">scroll to location</b-button>
-        <b-button size="sm" @click="removeMarkers">clear route</b-button>
-        <b-button size="sm" @click="locateUser">geolocate</b-button>
       </label>
+      <b-button size="sm" @click="removeMarkers">clear route</b-button>
+      <b-button size="sm" @click="locateUser">geolocate</b-button>
       <br/>
     </div>
     <br>
