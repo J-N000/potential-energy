@@ -3,18 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="3be86649-6b46-4ccb-9e75-833a82687555" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueApp/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/VueApp/src/App.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VueApp/src/components/ElevationGraph.vue" beforeDir="false" afterPath="$PROJECT_DIR$/VueApp/src/components/ElevationGraph.vue" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/Mountains.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/app.379ce3eecc461714a0e37478cd440ab8.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/css/app.379ce3eecc461714a0e37478cd440ab8.css.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/img/Mountains.8d16a7f.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/app.e011245c19071281efb5.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/app.e011245c19071281efb5.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/manifest.3ad1d5771e9b13dbdad2.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/manifest.3ad1d5771e9b13dbdad2.js.map" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/vendor.3e8a2f76c639ebeb8bc0.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/static/js/vendor.3e8a2f76c639ebeb8bc0.js.map" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -168,7 +156,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1488000" />
+    <option name="totallyTimeSpent" value="1804000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="709" extended-state="6" />
