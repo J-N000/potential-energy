@@ -1,7 +1,4 @@
 
-<img width="250" src="https://git.zipcode.rocks/J-N000/Potential-Energy/raw/branch/master/Logo/PotentialEnergy.png"></img>
-
-
 *This application is intended to assist gravity sports participants in finding adequate terrain.*
 
 Currently the best technological assistance for downhill athletes is to simply open Google Earth and look around for elevated areas with pavement. Or to buy topographical maps which are often incorrect, or fail to show roads consistently. Instead of these ineffective methods, most of those who choose to pursue the sport in a locale without a rich scene are forced to search manually.
