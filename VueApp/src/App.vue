@@ -36,9 +36,4 @@
   .container {
     margin-top: 30px;
   }
-  body {
-    background-image: url('../static/Mountains.png');
-    background-blend-mode: hard-light;
-    background-position: top;
-  }
 </style>

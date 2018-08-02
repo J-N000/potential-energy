@@ -53,7 +53,7 @@
         chartData: null,
         chartOptions: {
           backgroundColor: { fill: 'transparent' },
-          vAxis: { textStyle: { color: '#CAE9FF' } },
+          vAxis: { textStyle: { color: '#062831' } },
           bar: { groupWidth: '100%' },
           chartArea: { top: 20 },
           legend: 'none'
@@ -135,7 +135,7 @@
     display: flex;
     justify-content: space-evenly;
     font-size: 1em;
-    color: #CAE9FF;
+    color: #062831;
     padding-right: 10px;
   }
   .gradeContainer {
@@ -143,7 +143,7 @@
     display: flex;
     justify-content: space-evenly;
     font-size: 1em;
-    color: #CAE9FF;
+    color: #062831;
   }
   .chart {
     width: 100%;
