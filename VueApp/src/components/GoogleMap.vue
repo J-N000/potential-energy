@@ -16,7 +16,7 @@
       :center="center"
       :zoom="16"
       mapTypeId="terrain"
-      style="width: 100%;  height: 600px;"
+      style="width: 100%; height: 100vh;"
     ></gmap-map>
   </div>
 </template>
